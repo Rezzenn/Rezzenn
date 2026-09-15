@@ -27,7 +27,7 @@
 
 ### 🚀 Frameworks & Databases
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
@@ -41,13 +41,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rezzenn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezzenn&theme=tokyonight&hide=html,css&layout=compact&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rezzenn&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://img.shields.io/github/followers/Rezzenn?label=Followers&style=for-the-badge&color=7289da&logo=github" />
+  <img src="https://img.shields.io/github/stars/Rezzenn?label=Total%20Stars&style=for-the-badge&color=7289da&logo=github" />
 </p>
