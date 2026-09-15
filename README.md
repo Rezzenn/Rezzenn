@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineering & Information Technology Student</h3>
 
 <p align="center">
-  <a href="mailto:rezaxxyyy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.gg/cEze9hgA"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:rezaxxyyy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.gg/cEze9hgA"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 ### 🚀 Frameworks & Databases
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
@@ -41,9 +41,15 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Rezzenn?label=Followers&style=for-the-badge&color=7289da&logo=github" />
-  <img src="https://img.shields.io/github/stars/Rezzenn?label=Total%20Stars&style=for-the-badge&color=7289da&logo=github" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Rezzenn&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rezzenn&theme=tokyonight&hide=javascript&layout=compact&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezzenn&theme=tokyonight&hide_border=true" width="97%" />
+</p>
+
+
