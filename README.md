@@ -11,7 +11,7 @@
 ## 💫 About Me
 - 🎓 Focusing on **Software Engineering** & **Information Technology**
 - 💻 Currently active with **C++**, **PHP / Laravel**, and **Web Development**
-- 🛡️ Passionate about **Cybersecurity** & Networking
+- 🛡️ Passionate about **Cybersecurity**, **Linux**, & Networking
 
 ---
 
@@ -32,6 +32,7 @@
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ### 🛠️ Tools & Networking
+![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
