@@ -52,4 +52,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezzenn&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
-Apakah bisa di update lebih bagus lagi 
