@@ -58,13 +58,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rezzenn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezzenn&theme=tokyonight&hide=html,css&layout=compact&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rezzenn&theme=tokyonight&hide_border=true" width="97%" />
+  <a href="https://github.com/Rezzenn">
+    <img src="https://img.shields.io/github/followers/Rezzenn?style=for-the-badge&logo=github&color=7289da" />
+    <img src="https://img.shields.io/github/stars/Rezzenn?style=for-the-badge&logo=github&color=7289da" />
+  </a>
 </p>
