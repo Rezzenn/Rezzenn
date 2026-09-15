@@ -17,15 +17,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rezzenn&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Rezzenn Trophies" />
-  </a>
-</p>
-
----
-
 ## 💫 About Me
 - 🎓 **Education:** Software Engineering & Information Technology
 - 💻 **Core Focus:** C++ Low-Level Programming & PHP/Laravel Web Development
@@ -67,22 +58,13 @@
 
 ---
 
-## 📊 Contribution & Commit Activity
-
-<!-- Activity Graph (Menampilkan commit per hari & riwayat mingguan) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rezzenn&theme=tokyo-night&bg_color=1a1b26&hide_border=true" width="97%" alt="Commit Activity Graph" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Total Stats dengan Perhitungan Semua Commit -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Rezzenn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-
-  <!-- Top Languages (HTML/CSS di-hide agar persentase C++ & PHP akurat) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rezzenn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezzenn&theme=tokyonight&hide=html,css&layout=compact&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats: Menghitung total hari aktif & commit berturut-turut -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezzenn&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=Rezzenn&theme=tokyonight&hide_border=true" width="97%" />
 </p>
