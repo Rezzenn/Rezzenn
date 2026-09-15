@@ -1,24 +1,36 @@
 <div align="center">
   <h1>Hi 👋, I'm Rezzenn</h1>
-  <p><strong>Software Engineering & IT Student | C++ & Web Dev Enthusiast</strong></p>
+
+  <!-- Header Typing Animated SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7289DA&center=true&vCenter=true&width=500&lines=Software+Engineering+%26+IT+Student;C%2B%2B+%26+Systems+Development;DevOps+%26+Linux+(Debian)+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
 
   <p>
     <a href="https://github.com/Rezzenn"><img src="https://komarev.com/ghpvc/?username=Rezzenn&label=Profile%20Views&color=7289da&style=flat-square" alt="Profile Views"/></a>
-  </p>
-
-  <p>
-    <a href="mailto:rezaxxyyy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://discord.gg/cEze9hgA"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="mailto:rezaxxyyy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href="https://discord.gg/cEze9hgA"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
   </p>
 </div>
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rezzenn&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Rezzenn Trophies" />
+  </a>
+</p>
+
+---
+
 ## 💫 About Me
 - 🎓 **Education:** Software Engineering & Information Technology
-- 💻 **Core Focus:** C++, PHP / Laravel, & System Administration
-- 🛡️ **Interests:** Cybersecurity, Linux (Debian), & Networking
-- ⚡ **Current Goal:** Mastering C++ Memory Management & DevOps Workflows
+- 💻 **Core Focus:** C++ Low-Level Programming & PHP/Laravel Web Development
+- 🛡️ **Interests:** Cybersecurity, Linux System Administration (Debian), & Networking
+- ⚡ **Current Goal:** Mastering C++ Memory Management & DevOps Workflows (Docker & VirtualBox)
 
 ---
 
@@ -28,8 +40,8 @@
 <p>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -51,18 +63,26 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution & Commit Activity
 
+<!-- Activity Graph (Menampilkan commit per hari & riwayat mingguan) -->
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Rezzenn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rezzenn&theme=tokyonight&hide=javascript&layout=compact&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rezzenn&theme=tokyo-night&bg_color=1a1b26&hide_border=true" width="97%" alt="Commit Activity Graph" />
 </p>
 
 <p align="center">
+  <!-- Total Stats dengan Perhitungan Semua Commit -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rezzenn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+
+  <!-- Top Languages (HTML/CSS di-hide agar persentase C++ & PHP akurat) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezzenn&theme=tokyonight&hide=html,css&layout=compact&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats: Menghitung total hari aktif & commit berturut-turut -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezzenn&theme=tokyonight&hide_border=true" width="97%" />
 </p>
